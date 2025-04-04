@@ -27,9 +27,7 @@ Con el tiempo, esa pasión me llevó a adentrarme en el ámbito de los negocios,
 
 Estos son algunos de los proyectos en los que he trabajado y que reflejan mi evolución técnica y mi enfoque en el negocio:
 
-- [Proyecto A](#) – Proyecto que combina soluciones de desarrollo con estrategias para mejorar procesos empresariales.
-- [Proyecto B](#) – Iniciativa donde la integración de tecnología y negocio permitió alcanzar resultados innovadores.
-- [Proyecto C](#) – [Breve descripción del proyecto y su impacto].
+- [Bluemoments](https://bluemoments.es) – Proyecto que combina la potencia de Strapi CMS, con la versatilidad de Next.js y aporta un diseño óptimo con Tailwind CSS.
 
 ## 📫 Conecta Conmigo
 
