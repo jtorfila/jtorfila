@@ -1,16 +1,39 @@
-## Hi there 👋
+# ¡Hola, soy Joan Antoni! 👋
 
-<!--
-**jtorfila/jtorfila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi espacio en GitHub. Mi carrera comenzó en el mundo técnico, donde descubrí mi pasión la tecnología y la innovación. 
+Con el tiempo, esa pasión me llevó a adentrarme en el ámbito de los negocios, combinando la resolución de desafíos técnicos con estrategias empresariales.
 
-Here are some ideas to get you started:
+## 🚀 Mi Trayectoria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Inicios Técnicos:**  
+  He trabajado con diversas tecnologías que me han permitido afianzar mis habilidades en la resolución de problemas y la creación de soluciones eficientes.
+
+- **Evolución hacia el mundo de negocios:**  
+  Con el paso del tiempo, comprendí la importancia de unir la tecnología con la estrategia empresarial. Esta evolución me ha permitido abordar proyectos desde una perspectiva integral, donde la innovación técnica se alinea con objetivos de negocio para transformar procesos y generar valor.
+
+- **Pasión e Innovación:**  
+  Mi compromiso es seguir aprendiendo y explorando nuevas herramientas, metodologías y tendencias. Creo firmemente que la tecnología es una fuerza transformadora que puede impulsar el éxito empresarial y mejorar la vida de las personas.
+
+## 🛠️ Habilidades y Herramientas
+
+- **Lenguajes de programación:**  
+  Python, JavaScript, y otros según el contexto del proyecto.
+- **Frameworks y tecnologías:**  
+  Herramientas modernas y frameworks que potencian el desarrollo ágil y la integración continua.
+- **Gestión y Estrategia:**  
+  Experiencia en metodologías ágiles y herramientas de gestión que optimizan el flujo de trabajo y la toma de decisiones.
+
+## 📌 Proyectos Destacados
+
+Estos son algunos de los proyectos en los que he trabajado y que reflejan mi evolución técnica y mi enfoque en el negocio:
+
+- [Proyecto A](#) – Proyecto que combina soluciones de desarrollo con estrategias para mejorar procesos empresariales.
+- [Proyecto B](#) – Iniciativa donde la integración de tecnología y negocio permitió alcanzar resultados innovadores.
+- [Proyecto C](#) – [Breve descripción del proyecto y su impacto].
+
+## 📫 Conecta Conmigo
+
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si deseas conocer más sobre mi trabajo o simplemente conectar, puedes contactarme a través de:
+
+- [LinkedIn](https://www.linkedin.com/in/orfila/)
+- [Correo electrónico](mailto:jtorfila@gmail.com)
