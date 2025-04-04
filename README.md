@@ -1,9 +1,7 @@
 # ¡Hola, soy Joan Antoni! 👋
 
 Bienvenido a mi espacio en GitHub. 
-
 Mi carrera comenzó en el mundo técnico, donde descubrí mi pasión la tecnología y la innovación. 
-
 Con el tiempo, esa pasión me llevó a adentrarme en el ámbito de los negocios, combinando la resolución de desafíos técnicos con estrategias empresariales.
 
 ## 🚀 Mi Trayectoria
